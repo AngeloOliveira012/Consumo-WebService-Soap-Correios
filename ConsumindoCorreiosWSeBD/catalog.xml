@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl" uri="xml-resources/web-service-references/AtendeCliente/wsdl/apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente.wsdl"/>
+    <system systemId="http://localhost:8080/WebS.BD.Correios/SalvaEnd?WSDL" uri="xml-resources/web-service-references/SalvaEnd/wsdl/localhost_8080/WebS.BD.Correios/SalvaEnd.wsdl"/>
+    <system systemId="http://localhost:8080/WebS.BD.Correios/SalvaEnd?xsd=1" uri="xml-resources/web-service-references/SalvaEnd/wsdl/localhost_8080/WebS.BD.Correios/SalvaEnd.xsd_1.xsd"/>
+</catalog>
